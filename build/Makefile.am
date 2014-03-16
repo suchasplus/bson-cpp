@@ -18,7 +18,7 @@ UTILHEADERS = src/util/*.h
 UTILSOURCES = src/util/json.cpp
 
 LIBHEADERS = lib/atomic_int.h lib/base64.h lib/md5.h lib/nonce.h
-LIBSOURCES = lib/base64.cpp lib/md5.c lib/nonce.cpp
+LIBSOURCES = lib/base64.cpp lib/md5.cpp lib/nonce.cpp
 
 bsoncppdir = src/
 lib_LTLIBRARIES = libbsoncpp.la
