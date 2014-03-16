@@ -1,5 +1,9 @@
 # bson-cpp
 
+## update by suchasplus 
+
+For newer Boost lib compatibility, like 1.5x
+
 ## The standalone BSON C++ implementation.
 
 "BSON" stands for "binary JSON" - a binary storage format that is JSON inspired.
